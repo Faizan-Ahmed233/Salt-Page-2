@@ -1,0 +1,383 @@
+body {
+    background-color: black;
+    color: white;
+  
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    height: 120px;
+    position: fixed;
+    width: 2000px;
+}
+
+.box {
+    display: flex;
+    position: relative;
+    left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+.head {
+    display: flex;
+    align-items: center;
+
+}
+
+.head a {
+    padding: 30px;
+    color: white;
+    position: relative;
+    left: 500px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bor a {
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 20px;
+
+}
+
+#col {
+    background-color: orangered;
+
+
+}
+
+h2 p {
+    margin: 0;
+    font-size: 22px;
+    position: relative;
+    left: 80px;
+    color: orangered;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image {
+    overflow: hidden;
+  margin: 0;
+  padding-top: 120px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#cap {
+    font-size: 40px;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#low {
+    font-size: 20px;
+    margin: 0;
+    color: gainsboro;
+}
+
+.order {
+    display: flex;
+    overflow: hidden;
+    
+}
+.four{
+    position: relative;
+    left: 265px;
+    padding-top: 5px;
+}
+.three{
+      position: relative;
+    left: 250px;
+}
+.two{
+      position: relative;
+    left: 240px;
+}
+.one{
+      position: relative;
+    left: 225px;
+    padding-top: 5px;
+}
+.one a{
+    text-align: center;
+}
+.one p{
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+margin-top: 27px;
+}
+.two p{
+       text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.three p{
+       text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.four p{
+       text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.white{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 150px;
+}
+.side{
+    display: flex;
+
+}
+.all{
+    position: relative;
+    left:250px ;
+}
+#orange{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    position: relative;
+    right: 100px;
+}
+#size{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+#pad{
+    position: relative;
+    right: 92px;
+    font-size: 18px;
+}
+#fom{
+        font-size: 18px;
+        position: relative;
+        left: 20px;
+}
+.cor a{
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+.fais{
+    display: flex;
+    margin: 10px;
+}
+#ok{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    position: relative;
+    right: 70px;
+}
+#and{
+      font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    position: relative;
+    left: 30px;
+}
+#k{
+      font-size: 18px;
+      position: relative;
+      right: 30px;
+}
+#l{
+      font-size: 18px;
+      position: relative;
+      right: 65px
+}
+.act a{
+    color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+  position: relative;
+  right: 40px;
+} 
+.uff{
+    display: flex;
+}
+#o{
+     color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;  
+    position: relative;
+    right: 130px; 
+}
+#a{
+   font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    position: relative;
+    right: 37px;   
+}
+#b{
+      font-size: 18px;
+      position: relative;
+      left: 8px;
+}
+#c{
+      font-size: 18px;
+         position: relative;
+      right: 127px;
+}
+.bav a{
+ color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+.cal{
+    position: relative;
+    left: 230px;
+}
+.poc{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.loc{
+  margin-top: 120px;
+}
+#f{
+      font-size: 40px;
+    margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#g{
+      color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;  
+}
+#h{
+    font-size: 25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#i{
+     color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+
+}
+.second{
+      display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.cop{
+      display: flex;
+    justify-content: center;
+     margin-top: 40px;
+}
+#k{
+height: 250px;
+width:350px;
+position: relative;
+left: 1px;
+
+}
+#n{
+    width: 350px;
+    margin-top: 17px;
+    position: relative;
+left: 10px;
+}
+#m{
+width: 350px;
+height: 250px;
+position: relative;
+right: 10px;
+margin-top: 3px;
+}
+#o{
+    width: 350px;
+    position: relative;
+    left: 10px;
+    margin-top: 40px;
+}
+.top{
+    align-items: center;
+    text-align: center
+}
+.loop{
+      margin-top: 120px;
+}
+.copa{
+    display: flex;
+    position: relative;
+    right: 150px;
+}
+.lota{
+    margin-top: 100px;
+}
+#x{
+    position: relative;
+    right: 140px;
+     color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+#y{
+     font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    position: relative;
+    right: 71px;
+}
+#z{
+    position: relative;
+    right: 98px;
+}
+#q{
+    position: relative;
+    left: 12px;
+}
+#r{
+    border: 1px solid green;
+    border-radius: 20px;
+    background-color: green;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+  position: relative;
+  right: 140px;
+}
+footer{
+  color: white;
+  background-color: rgb(0, 0, 0);
+  margin-top: 100px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
